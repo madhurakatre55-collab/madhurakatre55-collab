@@ -18,7 +18,7 @@
 ### 📌 Featured Projects
 
 * **[EthosAI](https://github.com/madhurakatre55-collab/EthosAI):** An AI-based system & agentic workflow designed to flag, measure, and mitigate biased AI systems.
-* **VoiceX Music Generator:** An AI-powered application designed for audio and music generation workflows.
+* **[VoiceX Music Generator](git@github.com:madhurakatre55-collab/VioceX):** An AI-powered application designed for audio and music generation workflows.
 ---
 
 ### 📫 Connect with Me

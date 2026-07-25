@@ -9,9 +9,9 @@
 
 ### 🛠️ Tech Stack
 
-* **Languages:** Python, JavaScript, C++
+* **Languages:** Python, C++
 * **AI/ML & Frameworks:** Agentic AI Frameworks, CrewAI, Machine Learning, Data Structures
-* **Web & Tools:** HTML/CSS, Git & GitHub, Streamlit, Google Cloud / GenAI Tools
+* **Web & Tools:**  Git & GitHub, Streamlit, Google Cloud / GenAI Tools 
 
 ---
 

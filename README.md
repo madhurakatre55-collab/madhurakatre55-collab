@@ -19,6 +19,7 @@
 
 * **[EthosAI](https://github.com/madhurakatre55-collab/EthosAI):** An AI-based system & agentic workflow designed to flag, measure, and mitigate biased AI systems.
 * **[VoiceX Music Generator](https://github.com/madhurakatre55-collab/VioceX):** An AI-powered application designed for audio and music generation workflows.
+* **[agent_pulse](https://github.com/madhurakatre55-collab/ageent_pulse):** An Agentic research system built with Langchain for getting rearch data and website live links.
 ---
 
 ### 📫 Connect with Me
